@@ -1,1 +1,1 @@
-El proyecto implementa un pipeline híbrido en Python para segmentación automática de núcleos celulares en imágenes histopatológicas H&E del dataset MoNuSeg, combinando un enfoque clásico de procesamiento de imagen (deconvolución de color, CLAHE, filtrado frecuencial pasa-banda, umbralización de Otsu y Watershed) con una red U-Net entrenada en GPU durante 50 épocas, ambos métodos orientados a detectar y separar núcleos individuales para su análisis morfológico y espacial posterior.
+
